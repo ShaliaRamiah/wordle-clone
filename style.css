@@ -26,7 +26,7 @@ body {
   margin-bottom: 30px;
 }
 
-.keyboard-container{
+.keyboard-container {
   width: 510px;
   display: flex;
   flex-wrap: wrap;
@@ -63,4 +63,51 @@ body {
   justify-content: center;
   align-items: center;
   margin: 2px;
+}
+
+.message-container {
+  height: 30px;
+}
+
+.message-container p {
+  background-color: #818384;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 0;
+}
+
+.tile.flip {
+  animation: 0.5s linear flips;
+}
+
+@keyframes flips {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  50% {
+    transform: rotate(90deg);
+  }
+
+  100% {
+    transform: rotate(0deg);
+
+  }
+}
+
+
+/* order important */
+.grey-tile {
+  background-color: #3a3a3c !important;
+  border: none !important;
+}
+
+.yellow-tile {
+  background-color: #b59f3a !important;
+  border: none !important;
+}
+
+.green-tile {
+  background-color: #538d4e !important;
+  border: none !important;
 }
