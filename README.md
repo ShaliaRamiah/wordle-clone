@@ -4,7 +4,7 @@ A clone of a word game in which the user must correctly guess a five-letter wor
 
 ## Live Demo
 
-[Live Demo](https://shaliaramiah.github.io/wordle-clone/)
+[Live Demo](https://github.com/ShaliaRamiah/wordle-clone/)
 
 
 ## Getting Started
