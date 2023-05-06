@@ -1,4 +1,4 @@
 /.vscode
-#uncommited
-node_modules/
 .env
+# Node
+/node_modules
