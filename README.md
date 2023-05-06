@@ -2,11 +2,6 @@
 
 A clone of a word game in which the user must correctly guess a five-letter word in six tries.
 
-## Live Demo
-
-[Live Demo](https://github.com/ShaliaRamiah/wordle-clone/)
-
-
 ## Getting Started
 
 First you need an API key from [RapidAPI](https://rapidapi.com/hub) for both:
