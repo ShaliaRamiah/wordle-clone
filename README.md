@@ -27,6 +27,10 @@ Running the Backend:
 npm run start:backend
 ```
 
+## Things I need to fix
+- Accepts null inputs
+- tiles don't flip
+
 ## Credits
 
 [Code With Ania Kubow](https://www.youtube.com/watch?v=mpby4HiElek&t=378s 'Code With Ania Kubow') (Youtube)
